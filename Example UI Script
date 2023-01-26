@@ -1,0 +1,11 @@
+local player = game.Players.LocalPlayer
+local button = script.Parent
+
+-- Function to handle button clicks
+function buttonClicked()
+    -- Code to execute when button is clicked
+    print("Button clicked!")
+end
+
+-- Connect button click event to function
+button.MouseButton1Click:Connect(buttonClicked)
