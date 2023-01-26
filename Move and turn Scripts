@@ -1,0 +1,7 @@
+moveForward()
+turnLeft()
+moveForward()
+pickUpBrick()
+turnRight()
+moveForward()
+placeBrick()
