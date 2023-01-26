@@ -1,0 +1,9 @@
+local teleportPad = script.Parent
+local destination = teleportPad.Destination
+
+teleportPad.Touched:Connect(function(hit)
+    local human = hit.Parent:FindFirstChild("Humanoid")
+    if human then
+        human.Parent.HumanoidRootPart.CFrame = destination.CFrame
+    end
+end)
