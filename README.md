@@ -7,4 +7,4 @@ To be Clear This Does Not Include Makeing videos about it and having ads its Sel
 If you make a video with the scripts please give credit to the Original owner.
 
 
-#This Project Had Been Canceled Due to it being Not fun making the scripts and just unfun in general so It going to be archived but please still do the this above I will still Dmca take down stuff still
+
